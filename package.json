@@ -1,0 +1,42 @@
+{
+  "name": "proto-ecce-data",
+  "description": "an experiment",
+  "license": "Unlicense",
+  "version": "0.0.1",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Offirmo/proto-ecce-data.git"
+  },
+  "author": "Offirmo <offirmo.net@gmail.com>",
+  "homepage": "https://github.com/Offirmo/proto-ecce-data#readme",
+  "bugs": {
+    "url": "https://github.com/Offirmo/proto-ecce-data/issues"
+  },
+  "engines": {
+    "node": "^4.2.6"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint .",
+    "nsp": "nsp audit-package"
+  },
+  "dependencies": {
+    "amdefine": "^1.0.0",
+    "express": "^4.13.4",
+    "forky": "^0.3.0",
+    "jsen": "^0.6.0",
+    "lodash": "^4.1.0",
+    "simplyconfig": "^0.3.2"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint": "^1.10.3",
+    "mocha": "^2.4.5",
+    "nsp": "^2.2.0",
+    "pre-commit": "^1.1.2"
+  },
+  "pre-commit": [
+  ]
+}
