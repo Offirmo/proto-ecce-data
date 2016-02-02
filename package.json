@@ -1,6 +1,6 @@
 {
   "name": "proto-ecce-data",
-  "description": "an experiment",
+  "description": "an experiment of static data API",
   "license": "Unlicense",
   "version": "0.0.1",
   "private": true,

@@ -1,0 +1,18 @@
+{
+	"title": "French 'département' Schema",
+	"type": "object",
+	"additionalProperties": false,
+	"properties": {
+		"local_name": {
+			"description": "How this parish is named by the locals",
+			"type": "string",
+			"minLength": 5
+		},
+		"address": {
+			"description": "Where this parish is located",
+			"type": "string",
+			"minLength": 5
+		}
+	},
+	"required": [ "name" ]
+}
