@@ -1,14 +1,14 @@
 
 
-http://lunrjs.com/
-
-https://www.new-bamboo.co.uk/blog/2013/02/26/full-text-search-in-your-browser/
-
 http://stackoverflow.com/questions/11340852/how-to-create-client-side-full-text-search-engine-with-pure-javascript-and-html5
 
-https://github.com/reyesr/fullproof
+--- lunr
+http://lunrjs.com/
+https://www.new-bamboo.co.uk/blog/2013/02/26/full-text-search-in-your-browser/
 
-http://kornr.net/prez/paris.js22/#/14
+--- fullproof
+https://github.com/reyesr/fullproof
+http://kornr.net/prez/paris.js22/
 
 
 
